@@ -7,7 +7,7 @@ package main
 import (
 	"github.com/gopherjs/gopherjs/js"
 
-	"github.com/shurcooL/markdownfmt/markdown"
+	"github.com/hdjarv/markdownfmt/markdown"
 )
 
 func ProcessMarkdown(text string) string {

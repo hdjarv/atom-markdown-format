@@ -2,8 +2,8 @@
   "name": "markdown-format",
   "main": "./lib/markdown-format",
   "version": "2.5.1",
-  "description": "Formats your Markdown text on save.",
-  "repository": "https://github.com/shurcooL/atom-markdown-format",
+  "description": "Formats your Markdown text on save. Custom version by Henrik Djärv <henrik@djarv.org>",
+  "repository": "https://github.com/hdjarv/atom-markdown-format",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
